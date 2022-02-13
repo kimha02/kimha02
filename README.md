@@ -22,10 +22,18 @@ I am a graduate student studying Statistics in Jeonbuk National University. Also
 ## Writing
 Working paper...:wrench: (2022)
 
-##
+## Education
+#### Jeonbuk National University
+> Statistics (Mar.2021 ~ Present)
+#### Jeonbuk National University
+> B.S in Statistics And Department of Economics (Mar.2014 ~ Feb.2018)
+
+## Extracurricular Activity
+#### Off Campus
+> Lakehead University in ThunderBay, CANADA  (Jan.2017 ~ Apr.2017)
+- Visiting International Student Programs
+- Economic Statistics II
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimha02&show_icons=true&hide=prs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimha02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimha02&show_icons=true&hide=contribs,prs)
