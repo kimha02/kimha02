@@ -59,5 +59,5 @@ Lakehead University in ThunderBay, CANADA  (Jan.2017 ~ Apr.2017)
 - Economic Statistics II
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimha02&show_icons=true&hide=prs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimha02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimha02&show_icons=true&hide=prs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimha02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
