@@ -14,7 +14,7 @@ I am a graduate student studying Statistics in Jeonbuk National University. Also
 
 ## Work Experience
 #### RANET COOP_ChungCheong Division Chungnam Branch
-> Consultant (Feb. 2018 - Feb. 2021)
+Consultant (Feb. 2018 - Feb. 2021)
 - Researched agricultural policy
 - Analysed agricultural data 
 - Planned and analyzed surveys
@@ -24,13 +24,13 @@ Working paper...:wrench: (2022)
 
 ## Education
 #### Jeonbuk National University
-> Statistics (Mar.2021 ~ Present)
+Statistics (Mar.2021 ~ Present)
 #### Jeonbuk National University
-> B.S in Statistics And Department of Economics (Mar.2014 ~ Feb.2018)
+B.S in Statistics And Department of Economics (Mar.2014 ~ Feb.2018)
 
 ## Extracurricular Activity
 #### Off Campus
-> Lakehead University in ThunderBay, CANADA  (Jan.2017 ~ Apr.2017)
+Lakehead University in ThunderBay, CANADA  (Jan.2017 ~ Apr.2017)
 - Visiting International Student Programs
 - Economic Statistics II
 
