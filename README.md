@@ -29,13 +29,13 @@ Consultant (Feb. 2018 - Feb. 2021)
 
 ## Research
 #### A PJT(빅데이터 활용 냉장육에 대한 육질 정보 알고리즘 개발 포함)
-research assistant  (Jul.2021 ~ Jan.2022)
+Research assistant  (Jul.2021 ~ Jan.2022)
 
 #### 'R입문' 교과목 개발
-research assistant  (Sep.2021 ~ Feb.2022)
+Research assistant  (Sep.2021 ~ Feb.2022)
 
 #### 기하학적 딥러닝 : 비유클리드 자료에 대한 통계적 방법론
-research assistant  (Sep.2021 ~ Oct.2022)
+Research assistant  (Sep.2021 ~ Oct.2022)
 
 
 
@@ -59,5 +59,5 @@ Lakehead University in ThunderBay, CANADA  (Jan.2017 ~ Apr.2017)
 - Economic Statistics II
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimha02&show_icons=true&hide=prs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimha02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimha02&show_icons=true&hide=prs)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimha02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
