@@ -17,7 +17,7 @@ I am a graduate student studying Statistics in Jeonbuk National University. Also
 #### Big DATA Convergence And Open Sharing System (빅데이터 혁신공유대학)
 T.A. (Sep. 2021 - Feb. 2022)
 - 사회조사방법론
-- 생물통계학
+- 생명자료분석
 
 #### RANET COOP_ChungCheong Division Chungnam Branch
 Consultant (Feb. 2018 - Feb. 2021)
