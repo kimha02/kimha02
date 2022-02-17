@@ -9,8 +9,9 @@
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 ## Summary
-I am a graduate student studying Statistics in Jeonbuk National University. Also I got a bachelor's degree in Statistics in Feb.2018. My interest area is 2D image and Medical data analysis. 
-
+I am a graduate student studying Statistics in Jeonbuk National University ✏️. Also I got a bachelor's degree in Statistics in Feb.2018.
+My interest area is 2D image analysis, but i am trying to learn various topics in Deep Learning and Medical Statistics ...
+On free time, I usually go to gym because i try to spend at least five hours per week to exercise . When i have "real free time", i watch some movies and sleep enough to release stressful mind😊  
 
 
 ## Work Experience
