@@ -1,4 +1,4 @@
-# Ha young Kim
+# Ha young Kim 😎🍀
 
 :mailbox: ha0kim4128@gmail.com / :house: https://kimha02.github.io/ham/
 
