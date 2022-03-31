@@ -29,7 +29,7 @@ Consultant (Feb. 2018 - Feb. 2021)
 
 
 ## Research
-#### A PJT(빅데이터 활용 냉장육에 대한 육질 정보 알고리즘 개발 포함)
+#### A PJT
 Research assistant  (Jul.2021 ~ Jan.2022)
 
 #### A2 PJT
