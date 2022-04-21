@@ -46,7 +46,6 @@ Research assistant  (Sep.2021 ~ Oct.2022)
 
 ## Writing
 Working paper...:wrench: (2022)  
-Image decomposition based on the importance of pixels
 
 
 
