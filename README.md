@@ -11,8 +11,7 @@
 ## Summary
 I am a graduate student studying Statistics in Jeonbuk National University ✏️. Also I got a bachelor's degree in Statistics in Feb.2018.
 My interest area is 2D image analysis, but i am trying to learn various topics in Deep Learning and Medical Statistics ...
-On free time, I usually go to the gym because I try to exercise at least 5 hours a week. When i have real free time, i watch some movies and sleep enough to release the
- stressful mind😊.  
+On free time, I usually go to the gym because I try to exercise at least 5 hours a week. When i have real free time, i watch some movies and sleep enough to release the stressful mind😊.  
 
 
 ## Work Experience
@@ -36,6 +35,9 @@ Research assistant  (Jul.2021 ~ Jan.2022)
 #### A2 PJT
 Research assistant  (Nov.2021 ~ Nov.2021)
 
+#### A3 PJT
+Research assistant  (Apr.2022 ~ Nov.2022)
+
 #### 'R입문' 교과목 개발
 Research assistant  (Sep.2021 ~ Feb.2022)
 
@@ -46,7 +48,7 @@ Research assistant  (Sep.2021 ~ Oct.2022)
 
 ## Writing
 Working paper...:wrench: (2022)  
-
+Hierarchical-CAM: CAM-based hierarchical visualization for image data
 
 
 ## Education
