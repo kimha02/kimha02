@@ -60,6 +60,7 @@ B.S in Statistics And Department of Economics (Mar.2014 ~ Feb.2018)
 
 
 
+
 ## Extracurricular Activity
 #### Off Campus
 Lakehead University in ThunderBay, CANADA  (Jan.2017 ~ Apr.2017)
