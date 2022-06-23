@@ -14,6 +14,13 @@
 I am a graduate student studying Statistics in Jeonbuk National University. Also I got a bachelor's degree in Statistics in Feb.2018.
 My interest area is image analysis, but i am trying to learn various topics in Deep Learning.
 
+## Research interest
+#### Deep Learning
+- Image processing, Explainable Artificial Intelligence, Crawling
+#### Statistical analysis
+- Datamining, Regression and linear model, Timeseires data analysis
+#### Data visualization
+-Data preprocessing(query,join. . . ), Spatial data visualization, Interactive plot, Animation plot
 
 ## Work Experience
 #### Big DATA Convergence And Open Sharing System (빅데이터 혁신공유대학)
