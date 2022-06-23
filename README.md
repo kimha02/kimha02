@@ -20,7 +20,7 @@ My interest area is image analysis, but i am trying to learn various topics in D
 #### Statistical analysis
 - Datamining, Regression and linear model, Timeseires data analysis
 #### Data visualization
--Data preprocessing(query,join. . . ), Spatial data visualization, Interactive plot, Animation plot
+- Data preprocessing(query,join. . . ), Spatial data visualization, Interactive plot, Animation plot
 
 ## Work Experience
 #### Big DATA Convergence And Open Sharing System (빅데이터 혁신공유대학)
